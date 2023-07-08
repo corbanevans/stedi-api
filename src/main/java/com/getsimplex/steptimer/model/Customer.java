@@ -1,9 +1,9 @@
-//© 2021 Sean Murdock
+//© 2021 corban Murdock
 
 package com.getsimplex.steptimer.model;
 
 /**
- * Created by sean on 9/7/2016.
+ * Created by corban on 9/7/2016.
  */
 public class Customer {
 
